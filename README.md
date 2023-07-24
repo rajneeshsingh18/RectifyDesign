@@ -1,6 +1,6 @@
-# FrontEnd ReactJS + Html/CSS Projects
+# FrontEnd ReactJS + Html/CSS Project
 
-## First AI GPT Landing Site
+## First AI GPT Landing Site <a href="https://airevolution.netlify.app/">Live Demo</a>
 
 
 ![Screenshot 2023-07-21 115331](https://github.com/rajneeshsingh18/RectifyDesign/assets/79413032/13ac8256-9c19-462a-8d33-57b3f743ac98)
